@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: cuervolu-azure-ttt
+  DOCKER_IMAGE_NAME: cuervolu-azure-ttt 
   AZURE_WEBAPP_NAME: cuervolu-ttt-app
   ###############################################
 
